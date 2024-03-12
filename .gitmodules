@@ -1,0 +1,6 @@
+[submodule "package/other/DbusSmsForwardCPlus"]
+	path = package/other/DbusSmsForwardCPlus
+	url = https://github.com/lkiuyu/DbusSmsForwardCPlus
+[submodule "package/other/luci-theme-argon"]
+	path = package/other/luci-theme-argon
+	url = https://github.com/jerrykuku/luci-theme-argon
